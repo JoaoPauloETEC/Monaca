@@ -1,0 +1,13 @@
+/**/
+body{
+  top: 0;
+  left: 0;
+  padding: 0;
+}
+button{
+  margin-top: 10px;
+}
+.calc{
+  margin-top: 25%;
+  background-color: rgba(100, 189, 181, 0.829);
+}
